@@ -31,7 +31,7 @@ MongoDB Cloud 是构建数据驱动型应用程序的最佳方式
 - [毛泽东选集 第一卷](https://www.bilibili.com/read/readlist/rl330029)
 - [毛泽东选集 第二卷](https://www.bilibili.com/read/readlist/rl331197)
 - [毛泽东选集 第三卷](https://www.bilibili.com/read/readlist/rl334156)
-- [毛泽东选集 第三卷](https://www.bilibili.com/read/readlist/rl336027)
+- [毛泽东选集 第四卷](https://www.bilibili.com/read/readlist/rl336027)
 - ……
 
 🎃爬虫代码：
